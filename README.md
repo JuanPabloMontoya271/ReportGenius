@@ -39,7 +39,19 @@ we will develop the UI with the <a target="_blank" href="https://react.dev/">Rea
 - We will use <a target="_blank" href="https://nodejs.org/en">NodeJS</a> for the backend language and the <a target="_blank" href="https://expressjs.com/">ExpressJS</a> library to create a RESTful API.
 
 ### ML API
-- ...
+- The segmentation algorithms for the organs will be outsourced from the project Total Segmentator
+- The report generating functionalities will be backed by chatgpt 
+
+### Dicom Listener
+- This will consist in a dicom server that accepts the exams from the Orthanc PACS
+
+
+### Orthanc
+- This will be our local PACS server and will work as a cache for medical images, so that our application does not need to query and retrieve the hospital's pacs.
+
+
+### Integration with HL7 and FHIR
+This will be an specific service in charge of connecting to hl7 and fhir.
 
 ## Database
 - For our main database we will use <a target="_blank" href="https://www.mysql.com/">MySQL</a> because we will store structured data.
