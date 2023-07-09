@@ -3,11 +3,16 @@
 <img width="600" src="./assets/Logo.png" />
 </p>
 <p align="center">
-Report Genius is an app... 
+We are Report Genius, an AI startup streamlining radiology reporting. Our technology automates the generation of radiological reports using advanced image segmentation and expert annotations. By eliminating manual processes, we save time for radiologists and improve accuracy. Additionally, we provide an automatic question and answering service, empowering patients with quick access to essential healthcare information. With our innovative solution, we simplify radiology workflows and enhance patient care, making diagnoses faster, more reliable, and accessible to all.
 </p>
 
 # **About**
-Lorem ipsum dolor sit amet...
+To learn more about our startup you can visit our presentation video:
+<p align="center">
+<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<img width="60" src="./assets/yt-btn.png" />
+</a>
+</p>
 
 <br />
 
