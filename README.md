@@ -9,7 +9,7 @@ We are Report Genius, an AI startup streamlining radiology reporting. Our techno
 # **About**
 To learn more about our startup you can visit our presentation video:
 <p align="center">
-<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a target="_blank" href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/MPaN0w21SdM)">
 <img width="60" src="./assets/yt-btn.png" />
 </a>
 </p>
