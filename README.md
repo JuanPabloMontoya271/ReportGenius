@@ -17,11 +17,6 @@ To learn more about our startup you can visit our presentation video:
 <br />
 
 # **Technical Overview**
-## High-level Architecture
-<p align="center">
-[Add image]
-</p>
-
 ## Frontend
 - To develop these views:
 <p align="center">
